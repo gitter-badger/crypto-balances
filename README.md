@@ -1,5 +1,7 @@
 # Crypto-balance
 
+[![Join the chat at https://gitter.im/ValeryLitvin/crypto-balances](https://badges.gitter.im/ValeryLitvin/crypto-balances.svg)](https://gitter.im/ValeryLitvin/crypto-balances?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Easy check addresses balances of various crypto tokens. Script automaticaly recognize a protocol by address and return balance of tokens associated with it.
 
 On repo project folder type:
